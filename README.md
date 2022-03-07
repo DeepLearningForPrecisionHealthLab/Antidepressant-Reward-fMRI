@@ -1,2 +1,3 @@
 # Patterns of Pre-Treatment Reward Task Brain Activation Predict Individual Antidepressant Response
-Source code will be made available at the time of publication.
+
+Contact albert.montillo@utsouthwestern.edu for code. 
